@@ -1,0 +1,14 @@
+1. building ANN
+- ANN 불러오기
+- add input layer and first hidden Layer
+- add Second Layer
+- add Output layer
+set Activatio, num of neuron
+
+2. Training ANN
+- compile the ANN(Set optimizer, loss, metrics)
+- Traing ANN(set batch SiZze and epochs)
+
+3. Making the predictions and evaluating the model
+
+4. Making Confusion Matrix
