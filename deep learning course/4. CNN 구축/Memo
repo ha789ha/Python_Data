@@ -5,3 +5,5 @@
      : How do determine the number of layers and neurons in the hidden layer?
 
 - 실시간 이미지의 Computer Vision은 어떤 식으로 일어날까?
+
+- color image는 3차원으로 이루어져 있는데 feature detecor는 어떻게 이 요소들을 결합할까?
