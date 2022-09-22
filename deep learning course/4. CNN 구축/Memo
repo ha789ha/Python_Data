@@ -1,0 +1,10 @@
+- Feature Detector의 요소는 어떻게 결정하는 걸까?
+
+- unit의 수를 어떻게 결정해야 효율적인가(단순히 늘리기만 하면 효율이 비례적으로 늘어날까?)
+  1. https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3
+     : How do determine the number of layers and neurons in the hidden layer?
+
+- 실시간 이미지의 Computer Vision은 어떤 식으로 일어날까?
+
+- color image는 3차원으로 이루어져 있는데 feature detecor는 어떻게 이 요소들을 결합할까?
+  https://stackoverflow.com/questions/62493987/how-do-filters-run-across-an-rgb-image-in-first-layer-of-a-cnn
