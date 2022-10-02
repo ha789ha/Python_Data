@@ -10,3 +10,7 @@
 
 ### Data_library
 대표적인 데이터 라이브러리인 pandsa, matplotlib 실습
+
+### 읽어보면 좋을 글들
+
+1. Tensorflow vs Pytorch 무엇을 선택해야 할까? :https://velog.io/@freejack/PyTorch-vs-TensorFlow-in-2022
